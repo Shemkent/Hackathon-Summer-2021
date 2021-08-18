@@ -2,3 +2,5 @@ docs/flier.pptx
 data/
 .Rproj.user
 .Renviron
+.idea/
+.ipynb_checkpoints
