@@ -4,5 +4,4 @@ data/
 .Renviron
 .idea/
 .ipynb_checkpoints
-*.pickle
-*.obj
+.pickle
